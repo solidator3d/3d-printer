@@ -8,7 +8,7 @@ Solidator 3+ features a massive build volume of 345 x 194 x 400 mm (13.61” x 7
 
 https://wwww.solidator.com
 
-<h2>Solidator 3D-Printer V2 <h2> 
+<h2>Solidator 3D-Printer V2 </h2> 
 For previous Versions like Solidator 2 and 3 see:
 https://www.solidator.com/news.html
 
