@@ -1,4 +1,4 @@
-This Repository lists Industrial 3D Printers, specifically SLA / MSLA Printers Versions
+<h1>This Repository lists Industrial 3D Printers, specifically SLA / MSLA Printers Versions</h1>
 
 Solidator 3D-Printer V3+ MSLA 4K 
 https://wwww.solidator.com
